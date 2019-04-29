@@ -1,3 +1,5 @@
+https://laracasts.com/podcast
+
 Nobody Knows What the Hell They're Doing #1
 
 After over a decade of working in this industry, I've come to one undeniable truth: nobody knows what the hell they're doing. Let me explain...
