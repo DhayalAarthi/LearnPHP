@@ -555,3 +555,10 @@ It's Still a Finish Line #94
 I recently spent an entire day making a small, but tricky Vue component for the Laracasts forum. There's no doubt that it took longer than I would have liked. But, the fact remains: at the start of the day, I had no clue how to build it. When I clocked out that evening, it was finished and deployed. Let's talk about why this is my favorite aspect of programming, and how it can overflow into the rest of your life.
 
 https://laracasts.com/podcast/291537
+------------------------
+4 Things #95
+
+This episode, I have four things to discuss with you: children and values, old PHP, developers and back pain, and finally a new UI component we're working on for Laracasts.
+
+https://laracasts.com/podcast/293345
+------------------------
