@@ -45,210 +45,253 @@ Taking it Too Far is a Rite of Passage #8
 
 There's no two ways about it: taking things too far is simply a rite of passage. Whether it's developers over-evangelizing microservices and command-oriented architecture, or guitar players forcing newly learned modes into their solos, we all take it too far...before finally pulling back.
 
+https://laracasts.com/podcast/23169
 ------------------------
 Prioritize, Incentivize, Optimize #9
 
 Rather than big New Year's Resolutions, I prefer to make three simple lists. Prioritize the things you love to do, incentivize the things you need to do, and optimize the things you hate to do. It's cheesy as hell, but stay with me...
 
+https://laracasts.com/podcast/24049
 ------------------------
 The 100% Goal is Wrong #10
 
 Particularly when building open source tools, I think it's important to remember that the 100% goal is wrong. Or, in other words, when you repeatedly make compromises to make everyone happy, it might just turn out that you've made no one happy.
 
+https://laracasts.com/podcast/24258
 ------------------------
 Prepare for Terrible People #11
 
 Even a site as innocent and helpful as Laracasts has had its fair share of malicious users. It's a simple fact of the business. Are you lucky enough to have built a relatively popular product? Excellent! Now, get ready for the attacks.
 
+https://laracasts.com/podcast/24491
 ------------------------
 Unlearning Programming #12
 
 Remember, back in high school, when your English teacher prescribed countless rules and techniques for writing well? Remember how we all quietly applied these rules? Why not? Who are we to disagree at that age? However, fast forward a half-decade or so, and you start to realize that so many of these "rules" are simply...gibberish. Does that remind you of any other industry?
 
+https://laracasts.com/podcast/24789
 ------------------------
 Should College Be Mandatory? #13
 
 An interesting question popped up recently. Should college be mandatory for your children? We all bring our own pasts and experiences to the table, when a question like that pops up. Here's what I think...
 
+https://laracasts.com/podcast/25790
 ------------------------
 Russian-Doll Caching in Laravel #14
 
 One of the things I've been tinkering with these last few days is a mechanism for performing Russian-Doll caching in Laravel. In addition to determining if I can even make it work, I've been pondering whether this truly has a place in your future projects, or if there simply isn't enough value to warrant its usage. Who knows - let's talk about it.
 
+https://laracasts.com/podcast/26089
 ------------------------
 10 Business Tips When Launching Your First App #15
 
 So you're a developer planning to launch your first SaaS or subscription site? The business side of things get really complicated... really fast, right? In this episode, I rattle off ten tips and notes to be aware of, as you prepare for launch.
 
+https://laracasts.com/podcast/26792
 ------------------------
 The Q&A Episode #16
 
 I keep a list of frequently asked questions, related to Laracasts and being a programmer in general. In this episode, we'll breeze through a long list; everything from Jim Henson, to DHH, to facades!
 
+https://laracasts.com/podcast/27484
 ------------------------
 Pass the Salt, Please #17
 
 The topic of discussion for this episode is a pet peeve of mine: treating developers like children. "Bobby, you're likely to cut yourself, so, no, you may not use sharp knives." Is that really the type of community we wish to foster? I hope not.
 
+https://laracasts.com/podcast/27912
 ------------------------
 The Unfortunate Reality of Continuous Learning #18
 
 Here's the thing about code-focused workshops, magazines and commercial blogs: they may not always have your best interests at heart. Let me explain...
 
+https://laracasts.com/podcast/29156
 ------------------------
 Does Your Class Name Really Need That Suffix? #19
 
 What do "PostRepository", "TooManyMembersException" and "StaticallyTriggeredHydratorFactoryInterface" all have in common? The suffix! Are you sure that you really need to tack on the name of the pattern to each class?
 
+https://laracasts.com/podcast/32768
 ------------------------
 You Have To Be Meticulous #20
 
 In the early days of my coding career, I had a tendency to spike things out. Go fast, toy around, get it to work, and then hit deploy...all while quietly saying to myself, "I'll go back and clean this up later." But I rarely actually did...
 
+https://laracasts.com/podcast/34587
 ------------------------
 8 Marketing Tips for Developers That Cost Nothing #21
 
 If you're a developer launching your first product, it sometimes easy to forget that it's now exclusively your job to tell the world. Luckily, you don't have to reach into your pocket and spend thousands of dollars to get the word out; there are free - and more effective - alternatives.
 
+https://laracasts.com/podcast/35125
 ------------------------
 It All Goes Back to a Single Assumption...That Could Be Wrong #22
 
 The vocal consensus in the PHP community seems to be that, unless a class is perfectly unit-testable in isolation, it's inherently poor code - and in need of refactoring. But are we sure this is true? Let's talk about it.
 
+https://laracasts.com/podcast/36014
 ------------------------
 The Alien #23
 
 This week's episode takes a detour, as we talk discuss the alien living inside my wife's belly.
 
+https://laracasts.com/podcast/36889
 ------------------------
 About Frameworks Being Dead... #24
 
 Every six months or so, it pops up again: "Frameworks are dead." But...is that the case? What does that really mean? Let's chat.
 
+https://laracasts.com/podcast/37725
 ------------------------
 Let's Talk About Introversion #25
 
 We forget that there was a time when the terms "introvert" and "extrovert" didn't mean anything to the common person. Naturally, the internet has shined a huge spotlight on these personality types, but, yeah, a decade or so ago, things were a bit different. Some of us thought we simply awkward, detached individuals.
 
+https://laracasts.com/podcast/38314
 ------------------------
 Permission to Forget #26
 
 I use task apps religiously for, mostly, two specific reasons: I want permission to forget about it, and I believe the process of checking off items gets you in the habit of being productive for the day. Listen to me ramble, if you'd like to hear more.
 
+https://laracasts.com/podcast/38579
 ------------------------
 Choose Your Tribe Wisely #27
 
 Whether we like it or not, humans have a tendency to insert themselves into small communities or factions. In the coding world, it's certainly no different. And that's specifically why it's so important that we think long and hard about which tribes we choose for ourselves. That single choice can have huge ramifications, when it comes to how we approach and think about code.
 
+https://laracasts.com/podcast/39037
 ------------------------
 30 Days #29
 
 I'm a big fan of the tv show, "30 Days." I even apply it, at a lower level, to things in my own life. Whether it's contributing to open source every day for a month, or working out six days a week for a month, I've done a bunch of them.
 
+https://laracasts.com/podcast/39137
 ------------------------
 You Will Figure It Out. Every Time. #30
 
 If I were to pick my most favorite aspect of programming, it's this: no matter how difficult or confusing a bug/feature/refactor may be, if you stick with it long enough, you will figure it out. Every single time.
 
+https://laracasts.com/podcast/40577
 ------------------------
 Two Hours, Two Times #31
 
 We have enough data to show that the typical 9-5 work day schedule is entirely arbitrary. The reality is that humans simply aren't good at holding their attention for such long spans of time. So - with a two-week-old baby in my house, I've begun re-thinking my work schedule. Is it possible that we can get the same amount of output from two hours of work, two times a day?
 
+https://laracasts.com/podcast/40936
 ------------------------
 Forever Plans, Vue, and Expansion #32
 
 Let's do another Q&A episode today. I'll answer the following community questions. 1. Why won't Laracasts expand to cover more technologies and languages? 2. What are your top three favorite podcasts? 3. Are Forever Plans smart business? 4. What's one piece of advice that you'd offer entrepreneurs starting their first business? 5. Will there be a Laracasts series on what's new in Laravel 5.3? 6. Vue or jQuery?
 
+https://laracasts.com/podcast/41484
 ------------------------
 Victims of Our Curiosity #33
 
 If you think about it, every single year, certain development trends take the community by storm. Whether repositories, or service classes, or the command bus, this is undeniably true. Let's talk about it.
 
+https://laracasts.com/podcast/42335
 ------------------------
 Just a Detail #34
 
 Last week, we talked about development trends - and how they sometimes have a tendency to make developers feel as if they're falling behind. "These are the new trends of 2016! Get to the mall, stat!" Today, let's continue the discussion a bit more. Will this new trending architecture bring you closer to launching the project of yours that's been sitting at 90% complete for a year now? Maybe...but maybe not.
 
+https://laracasts.com/podcast/42571
 ------------------------
 Shut Up and do the Work #35
 
 Today, we're discussing the importance of building little projects for yourself. Whether it's a podcast, or book, or web app, pick something and force yourself to see it through to completion. Along the way, I'll tell you about my completely rewritten book, and why I'm so excited to share it this time around.
 
+https://laracasts.com/podcast/43216
 ------------------------
 Developer Arrogance #36
 
 Recently, I've been updating a book I wrote a number of years ago. Over and over again, I found myself hitting the delete key. References to bad practices and SRP were laced throughout every chapter. How could I have been so arrogant?
 
+https://laracasts.com/podcast/43718
 ------------------------
 Throw it All Out #37
 
 Sometimes, the appropriate and responsible thing is to throw it all out and start again. Now, of course, not everyone has this luxury. Business requirements and deadlines often make these sorts of things impossible. However, is this true for your own business, or your own open source projects? Sometimes, that muddy code or CSS you wrote three years ago is begging to be deleted. How much better could you write it, knowing what you know now?
+
+https://laracasts.com/podcast/44356
 ------------------------
 You Are Who You Say You Are #38
 
 "Fake it 'til you make it" is a great idea, just as long as you back it up behind the scenes with actual work toward the thing to which you're faking.
 
+https://laracasts.com/podcast/44871
 ------------------------
 The Beauty of CSS is BS #39
 
 A decade ago, I was taught that the beauty of CSS is its ability to completely alter the presentation of a website without touching your HTML. Yeah... "you never have to touch your HTML again." Sounds great, right? Too bad it's BS.
 
+https://laracasts.com/podcast/45365
 ------------------------
 As Little As Possible #40
 
 Whether in life or software development, I think a good approach is to push for as little as possible. The fewer lines of code you must write, or the fewer items in your bathroom cabinet, the better.
 
+https://laracasts.com/podcast/46012
 ------------------------
 False Alarms #41
 
 A few nights ago, I was fast asleep when, all of the sudden, the building's fire alarm went off. It definitely woke me up, but I didn't respond in the way you might think. My instinct was to ignore it entirely. How come? And why is this also often true for the tests you write?
 
+https://laracasts.com/podcast/46315
 ------------------------
 A Bit Closer Than Yesterday $42
 
 When you have a full-time job, it's far too easy to ignore that side project or business that you've had your eye on. Think about it: most projects never come to completion. How come? And, more importantly, what little steps can we take to ensure that we don't fall into that same trap.
 
+https://laracasts.com/podcast/47171
 ------------------------
 Write it Down #43
 
 Lately, I've been forcing myself to journal tiny dev realizations I have, as I work on various projects. How often have you hit a roadblock, switched to Stack Overflow, found a fix....only to completely forget it six months later, when you encounter the same problem again?
 
+https://laracasts.com/podcast/48635
 ------------------------
 Energy #44
 
 Lately, I've been making more of an effort to focus on my energy levels, and how to maximize them. If your energy levels aren't where they should be, then any desire you might have had to finish up that side project goes out the window. This is paramount to our financial and happiness goals, so why isn't it at the top of our priority list?
 
+https://laracasts.com/podcast/49134
 ------------------------
 Beware the Mob #45
 
 We're all aware of the notorious Twitter mob. Don't you dare go against agreed upon opinions, or you will be sliced to pieces. We've seen the wake of these viral slander campaigns countless times over the years - all the way up to the creator of JavaScript, himself. Why are we okay with this again? And are we creating an environment that encourages any person with differing views to remain silent, out of fear of losing their job?
 
+https://laracasts.com/podcast/49602
 ------------------------
 Get Carried Away #46
 
 My favorite sorts of people are the ones who allow themselves to get carried away over simple things. It's contagious. I dare you to listen to an incredibly passionate fan, of any possible thing, and not be pulled in and inspired by their excitement. Society refers to this as nerd culture, which I find a bit dismissive and critical. If "nerdy" translates to "someone who can't help but get excited," then count me in.
 
+https://laracasts.com/podcast/50258
 ------------------------
 Turbolinks, the Laracasts Refresh, and My Annoying Bank #47
 
 We're all over the place today. If you're walking the dog or on your way home, tune in as I discuss everything from Turbolinks, to my annoying, broken bank. I also provide a few updates on the Laracasts refresh that I've been working on for the last few months.
 
+https://laracasts.com/podcast/52017
 ------------------------
 Redundant #48
 
 In this episode, we'll discuss a basic, but incredibly useful technique that I use to write more expressive code.
 
+https://laracasts.com/podcast/52540
 ------------------------
 The Laracasts Refresh Launch Day Podcast #49
 
 Today, we're exclusively discussing the new Laracasts refresh. I talk about what I've learned in the 3-month process, interesting techniques - both front-end and back-end - that I leveraged, as well as why I spent more time simplifying, rather than complicating.
 
+https://laracasts.com/podcast/52976
 ------------------------
 Simple Laravel Performance Wins You Can Implement Right Now #50
 
 In this episode, we're focused entirely on simple performance tips that anyone can implement right now. Every kilobyte counts, so try to implement at least a few of these, if you aren't already!
 
+https://laracasts.com/podcast/53439
 ------------------------
 Marketing Pet Peeves #51
 
